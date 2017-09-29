@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1] I have learned
+   a) How the HTML tree structure is made.
+   b) How to use HTML tag and its syntax.
+   c) How to solve the problem without being frustrated.
+   d) I have also learned new HTML5 tags like header footer section after searching on the web while completing the project.
+
+2] Everything was easy
+
+3] Nothing was difficult (Becuase of Udacity's great team :))
+
