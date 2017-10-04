@@ -1,0 +1,38 @@
+/* add your CSS here */
+
+#title {
+    margin: 0px;
+    padding: 10px 0px 20px 0px;
+    font-family: 'Lora', serif;
+}
+
+.fact {
+    font-style: italic;
+    font-family: 'Crimson Text', serif;
+    font-size: .95em;
+}
+
+span {
+    font-weight: bold;
+}
+
+.dis {
+    font-style: normal;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);
+    width: 300px;
+}
+
+.list {
+    font-size: .86em;
+    list-style: none;
+    padding: 0px;
+}
+
+.border {
+    border: 1px solid rgba(0, 0, 0, .3);
+    padding: 10px;
+}
