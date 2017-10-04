@@ -7,14 +7,8 @@ This was the first Project for Udacity's Front-End Web Developer Nonodegree Prog
 
 [View project](https://pranavraut033.github.io/u_fewd/project_1/index.html)  
 
-<<<<<<< HEAD
 ## [Project: Animal Trading Cards](https://github.com/Pranavraut033/Udacity_FEWD_Nonodegree_Projects/tree/master/Project_2)
 
 This was the Second Project for Udacity's Front-End Web Developer Nonodegree Program which was to style a given page with newly learned CSS skills
-=======
-## [Project: Mockup to Article](https://github.com/Pranavraut033/Udacity_FEWD_Nonodegree_Projects/tree/master/Project_2)
-
-This was the Second Project for Udacity's Front-End Web Developer Nonodegree Program which was to style a given page with newly learned CSS skills 
->>>>>>> ad641789910ae07ba87dd3982ef0cf5ae7cf0357
 
 [View project](https://pranavraut033.github.io/u_fewd/project_2/card.html)  
